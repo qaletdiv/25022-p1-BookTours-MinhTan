@@ -1,3 +1,5 @@
+Live: https://travelingbooking.netlify.app/
+
 Backend:
 
 - Run "npm install" to install npm dependencies.
@@ -6,3 +8,4 @@ Backend:
 Frontend:
 
 - Just open index.html with Live Server in VS Code to see the result. Thank you!
+
